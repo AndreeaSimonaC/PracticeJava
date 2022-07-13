@@ -6,4 +6,4 @@ and then gets the grades themselves, each on a new line.
 
 The program must output four numbers in a single line:
 the number of D, C, B, and A grades (in that order),
-separated by blank space characters.
+separated by blank space characters
