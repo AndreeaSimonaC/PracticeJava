@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ProblemOne {
+public class NumberOfGrades {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

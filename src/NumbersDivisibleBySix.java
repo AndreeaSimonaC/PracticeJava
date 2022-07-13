@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class ProblemTwo {
+public class NumbersDivisibleBySix {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int numberOfElements = scanner.nextInt();
