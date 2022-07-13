@@ -13,6 +13,7 @@ public class CountNumberDivisibleByN {
                 counter++;
             }
         }
+
         System.out.println(counter);
     }
 }
